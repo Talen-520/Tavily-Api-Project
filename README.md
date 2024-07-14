@@ -1,5 +1,10 @@
 # Tavily-Api-Project
 
+### Project Showcase
+
+https://github.com/user-attachments/assets/f5c2730f-7ec8-4c03-9bfb-599b58a5d577
+
+
 ### Getting Start
 
 1. clone this repository
@@ -29,7 +34,7 @@ npm run dev
 app will live at http://localhost:5173/
 
 
-# about project step by step setup process[optional]
+## about project step by step setup process[optional]
 
 ### install vitrual environment
 ```
@@ -44,12 +49,12 @@ python -m venv <environment_name>
 pip install --upgrade openai python-dotenv --upgrade tiktoken tavily-python django djangorestframework django-cors-headers
 ```
 
-# start your demo project
+### start your demo project
 ```
 django-admin startproject <projectname>
 cd <projectname>
 ```
-# start your app 
+### start your app 
 ```
 python manage.py startapp <appname>
 ```
@@ -63,7 +68,7 @@ TAVILYKEY_API_KEY=yourkey
 ```
 python manage.py runserver
 ```
-# frontend setup
+### frontend setup
 ```
 npm create vite@latest <projectname>
 > react
@@ -72,7 +77,7 @@ npm create vite@latest <projectname>
 cd Newsapp
 npm install axios
 ```
-# run app
+### run app
 ```
 npm run dev
 ```
