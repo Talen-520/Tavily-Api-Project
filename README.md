@@ -2,7 +2,8 @@
 
 ### Project Showcase
 
-https://github.com/user-attachments/assets/f5c2730f-7ec8-4c03-9bfb-599b58a5d577
+https://github.com/user-attachments/assets/c3b25f6b-6f8c-4a37-978f-74d18ecf330c
+
 
 [Read Documentation](https://github.com/Talen-520/Tavily-Api-Project/blob/main/Financial%20News%20Analyst%20Project%20Documentation.md)
 
