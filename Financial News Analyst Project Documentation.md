@@ -58,7 +58,7 @@ The frontend is a React application, providing a responsive and interactive user
 ### User Interface
 
 - Input fields for company name, quarter, and year
-- "Get Financial News" button to trigger the analysis
+- "Get earning report" button to trigger the analysis
 - Results display area with formatted text output
 
 ### State Management
@@ -89,27 +89,6 @@ To use the Financial News Analyst API:
 }
 ```
 
-## Deployment
-
-The application is containerized using Docker for easy deployment and scaling.
-
-1. Backend Dockerfile: Located in the `backend/` directory
-2. Frontend Dockerfile: Located in the `frontend/` directory
-3. Docker Compose file: Orchestrates both services
-
-To deploy:
-
-1. Ensure Docker and Docker Compose are installed
-2. Navigate to the project root directory
-3. Run `docker-compose up -d`
-
-For production deployment on AWS:
-
-1. Set up an EC2 instance
-2. Install Docker and Docker Compose
-3. Clone the project repository
-4. Run `docker-compose up -d`
-5. Configure security groups to allow inbound traffic on ports 80 and 443
 
 ## Examples of Generated Outcomes
 
