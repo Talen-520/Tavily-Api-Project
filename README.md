@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/f5c2730f-7ec8-4c03-9bfb-599b58a5d577
 
-[!Documentation](https://github.com/Talen-520/Tavily-Api-Project/blob/main/Financial%20News%20Analyst%20Project%20Documentation.md)
+[Read Documentation](https://github.com/Talen-520/Tavily-Api-Project/blob/main/Financial%20News%20Analyst%20Project%20Documentation.md)
 
 ### Getting Start
 
